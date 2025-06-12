@@ -44,3 +44,9 @@ I’m now focused on moving beyond day-to-day development and into strategic adv
 - UK-based, remote, or EU opportunities considered
 
 Let’s connect if you need someone who can cut through complexity, design sustainable systems, and make meaningful change.
+
+---
+
+## 🧙‍♂️Personal
+
+I've been a keen motorcycle rider for over 15 years; Europe stole my heart years ago! I follow the climate crisis closely and have made many changes to my lifestyle with much more to do.
