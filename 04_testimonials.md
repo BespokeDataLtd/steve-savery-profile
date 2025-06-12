@@ -1,11 +1,10 @@
 ## Testimonials
 
-** Placeholders **
-
-> *“Steve has a rare ability to see the root of a problem in complex systems and deliver solutions that not only work — but actually make people’s lives easier. He turned what was a daily operational nightmare into a clean, automated platform that scaled with our growth. The ROI on his work was undeniable.”*  
-> — **Emma R.**, Operations Director, Mental Health Services Provider
+> “It’s been a privilege to work with Steve for the past eight years. He took on the monumental task of building our IT system from the ground up —an incredibly complex platform including bookings, payment processing, invoicing, insurance claims, and other highly functional tools. His work was pivotal to our business.  
+>   
+> Steve is reliable, methodical, and trustworthy. He has taken on large data challenges as well as small but meaningful enhancements, and handled all with deep skill and patience. His creativity and thoughtful approach led to business-enhancing improvements and his contributions have leave a lasting impact on our team.  
+>   
+   Beyond his technical ability, Steve has been an absolute pleasure to work with - always collaborative and dedicated. He would be a true asset to anyone he works with.”
+> — **Sheri J.**, Owner, Harley Therapy Limited
 
 ---
-
-> *“We brought Steve in to clean up a legacy system. What he delivered was far beyond expectation — a future-proof, scalable foundation that transformed how our business functions. He has that rare mix of technical depth, strategic thinking, and calm under pressure that’s hard to find.”*  
-> — **Tom P.**, Founder & Managing Director, Food Logistics SME
