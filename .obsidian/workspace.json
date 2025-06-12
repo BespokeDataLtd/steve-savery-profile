@@ -11,10 +11,14 @@
             "id": "12bba0cf663fcf89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_project_highlights.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02_project_highlights"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 383.5
   },
   "right": {
     "id": "57d50becb043bdd8",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_project_highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 02_project_highlights"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_project_highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 02_project_highlights"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/bespoke-data/SilverWoodBooks_PublishingSystem.md",
+                "file": "02_project_highlights.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SilverWoodBooks_PublishingSystem"
+              "title": "Outline of 02_project_highlights"
             }
           }
         ]
@@ -162,18 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c55edac274e3b1ba",
+  "active": "12bba0cf663fcf89",
   "lastOpenFiles": [
+    "projects/harley-therapy/harleytherapy_automatedbilling.md",
     "02_project_highlights.md",
+    "projects/harley-therapy/harleytherapy_dynamicpricing.md",
+    "projects/bespoke-data/silverwoodbooks_publishingsystem.md",
+    "projects/bespoke-data/SilverWoodBooks_PublishingSystem.md",
     "03_employment_history.md",
     "projects/decent-group/brayneprice_vanprinting.md",
     "01_skills_and_tools.md",
     "00_aboutme.md",
     "projects/decent-group/rospa_playsafety_inspectionsystem.md",
-    "projects/bespoke-data/silverwoodbooks_publishingsystem.md",
     "projects/ukrainianfreelancerboard.md",
-    "projects/harley-therapy/harleytherapy_automatedbilling.md",
-    "projects/harley-therapy/harleytherapy_dynamicpricing.md",
     "04_testimonials.md",
     "readme.md",
     "05_cv_plaintext.md",
@@ -183,7 +190,6 @@
     "03_Employment_History.md",
     "02_Project_Highlights.md",
     "projects/decent-group/RoSPA_PlaySafety_InspectionSystem.md",
-    "projects/bespoke-data/SilverWoodBooks_PublishingSystem.md",
     "projects/bespoke-data",
     "projects/UkrainianFreelancerBoard.md",
     "projects/decent-group/BraynePrice_VanPrinting.md",

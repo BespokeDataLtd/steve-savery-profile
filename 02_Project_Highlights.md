@@ -6,10 +6,10 @@ A selection of projects that demonstrate my ability to design, build, and delive
 
 - 📚 **SilverWood Books**  
   Built a custom publishing operations platform handling sales, formats, suppliers, and author royalties.  
-  → [View: Publishing System Case Study](SilverWoodBooks_PublishingSystem.md)
+  → [View: Publishing System Case Study](./projects/bespoke-data/silverwoodbooks_publishingsystem.md)
 - 🌍 **Ukrainian Freelancer Support**  
   Built a Bubble-based LinkedIn-verified freelance board for displaced Ukrainians.  
-  → [View: Humanitarian No-Code Platform](./UkrainianFreelancerBoard.md)
+  → [View: Humanitarian No-Code Platform](./projects/ukrainianfreelancerboard.md)
 
 ---
 
@@ -23,8 +23,8 @@ A selection of projects that demonstrate my ability to design, build, and delive
 - Automated ~90% of manual operations, reducing admin overhead and improving client response times.
 - 💼 **Harley Therapy**  
   Built the full scheduling, therapist allocation, and billing platform.  
-  → [View: Dynamic Pricing Engine](./HarleyTherapy_DynamicPricing.md)  
-  → [View: Automated Billing with Braintree](./HarleyTherapy_AutomatedBilling.md)
+  → [View: Dynamic Pricing Engine](./projects/harley-therapy/harleytherapy_dynamicpricing.md)
+  → [View: Automated Billing with Braintree](./projects/harley-therapy/harleytherapy_automatedbilling.md)
 
 ---
 
@@ -41,10 +41,10 @@ A selection of projects that demonstrate my ability to design, build, and delive
 - Developed automated monitoring processes to ensure the health of servers and systems spread across client sites nationwide and in-house.
 - 🛝 **RoSPA Play Safety**  
   Built a digital inspection planning and field reporting system for playground safety audits.  
-  → [View: Inspection Scheduling System Case Study](./RoSPA_PlaySafety_InspectionSystem.md)
+  → [View: Inspection Scheduling System Case Study](./projects/decent-group/rospa_playsafety_inspectionsystem.md)
 - 🧾 **Brayne & Price Fine Foods**  
   Developed a fully offline mobile sales and printing solution using FileMaker Go, Raspberry Pi, and dot matrix printers.  
-  → [View: Van Printing & Digital Sales System](./BraynePrice_VanPrinting.md)
+  → [View: Van Printing & Digital Sales System](./projects/decent-group/brayneprice_vanprinting.md)
 
 ---
 
