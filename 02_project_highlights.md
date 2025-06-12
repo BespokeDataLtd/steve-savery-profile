@@ -58,27 +58,6 @@ A selection of projects that demonstrate my ability to design, build, and delive
 - Implemented scoped user roles, background processing, and GDPR compliance features.
 - Introduced print-friendly job sheets, secure authentication, and image galleries.
 
----
-
-## ⚡ Orchard Energy / Utiligroup (2012–2015)
-
-**Role:** Senior Developer (via Decent Group)  
-**Tech:** FileMaker, SQL, legacy systems, batch data processing
-
-- Overhauled internal systems for a B2B energy provider during market expansion.
-- Enabled smoother switching and account migrations across suppliers.
-- Built reporting and data validation layers to ensure regulatory compliance and reduce failed transactions.
-
----
-
-## 📑 Document Workflow Optimisation – Harley Therapy Limited (2018–2019)
-
-**Role:** Consultant  
-**Tech:** FileMaker, PDFKit, automated backups
-
-- Identified inefficiencies in how client records and reports were being managed.
-- Built a structured document filing, export, and backup system with tiered access.
-- Reduced administrative time by ~40% through automation and intelligent defaults.
 
 ---
 
