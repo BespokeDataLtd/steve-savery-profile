@@ -18,7 +18,7 @@ Strategic advisor for the digitisation of business-critical operations in a regu
 - Presented technology strategy and delivery updates to board and senior stakeholders, aligning tech investment with business KPIs and investor expectations.
 
 ## Fractional Solutions Architect & Strategic Advisor
-### Decent Group Limited — 2010–2016
+### Decent Group Limited — 2012–2016
 Technical lead on multi-year digital transformation projects across utility, public sector, and B2B clients.
 - Instrumental in **tripling** Brayne & Price Fine Foods Ltd’s net assets over five years—designed enterprise stock-control and invoicing platform, integrated Sage, and enabled near-real-time financial reporting.
 - Led cross-functional teams and oversaw risk & QA for multiple digital transformation projects in energy and public sector.

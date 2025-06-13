@@ -2,6 +2,7 @@
 
 **Role:** Platform Designer & No-Code Developer  
 **Tech:** Bubble.io, LinkedIn OAuth integration, profile tagging, manual moderation workflows
+🌍 https://talentukraine.com
 
 At the outbreak of the war in Ukraine, I was approached via social media (likely Reddit or Twitter) by a Ukrainian living in London who was determined to help displaced friends, family, and fellow citizens find work and economic independence.
 

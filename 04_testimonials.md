@@ -6,7 +6,7 @@
 >   
 > Beyond his technical ability, Steve has been an absolute pleasure to work with - always collaborative and dedicated. He would be a true asset to anyone he works with.”
 
-— **Sheri J.**, Owner, Harley Therapy Ltd
+— **Sheri J.**, Founder, Harley Therapy Ltd
 
 ---
 > “It has been my great pleasure to work with Steve Savery for more than 25 years – since well before the time he set up Bespoke Data Ltd in 2007.
@@ -32,4 +32,4 @@
 >
 >He has always been approachable and responsive, offering assistance with any queries in a calm and reassuring manner."
 
-— **Erica S. FGA, DGA, RJ Dip, FIPG**, Owner, Erica Sharpe Limited
+— **Erica S. FGA, DGA, RJ Dip, FIPG**, Owner, Erica Sharpe Ltd
