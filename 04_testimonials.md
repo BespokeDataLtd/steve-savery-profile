@@ -32,4 +32,4 @@
 >
 >He has always been approachable and responsive, offering assistance with any queries in a calm and reassuring manner."
 
-— **Erica S. FGA, DGA, RJ Dip, FIPG**, Owner, Erica Sharpe Fine Jewellery
+— **Erica S. FGA, DGA, RJ Dip, FIPG**, Owner, Erica Sharpe Limited
