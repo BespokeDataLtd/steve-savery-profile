@@ -10,13 +10,13 @@ A summary of the tools, platforms, and skills I’ve developed over my 30+ year 
 - Ruby on Rails (7+), PostgreSQL, Redis, Sidekiq, REST APIs
 - FileMaker Pro / Server (Advanced custom solutions)
 - Data import/export automation, scripting (Python, Bash)
-- SQL (advanced queries, indexing, optimization)
+- SQL (advanced queries, indexing, optimisation)
 
 ### Infrastructure & Deployment
 - Docker & Compose, GitHub Actions (CI/CD)
 - Linux server administration (Ubuntu, macOS server environments)
 - SSL/TLS configuration (Let's Encrypt, mkcert, cPanel)
-- Basic AWS (EC2, S3, RDS) and DigitalOcean use
+- Basic AWS (EC2, S3, RDS) use
 - Puma, Nginx, SSL proxying
 
 ### Frontend & UX
@@ -31,7 +31,7 @@ A summary of the tools, platforms, and skills I’ve developed over my 30+ year 
 
 - ETL/ELT workflows, especially between Bubble, FileMaker, and Rails
 - API integration: Stripe, Ideal Postcodes, QuickBooks, VoIP (Twilio/SIP), and more
-- Data normalization, audit logging, GDPR/AML compliance handling
+- Data normalisation, audit logging, GDPR/AML compliance handling
 - Background job orchestration, retention policies, and system alerts
 
 ---
@@ -42,6 +42,7 @@ A summary of the tools, platforms, and skills I’ve developed over my 30+ year 
 - Obsidian (knowledge base, Zettelkasten-style system building)
 - VS Code, FileMaker Advanced, iTerm2
 - Trello, Notion, Jira, Slack, ClickUp
+- IFTTT, Zapier, AppleScript, Automator, Bash shell script automation workflows
 
 ---
 

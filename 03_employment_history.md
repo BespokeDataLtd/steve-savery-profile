@@ -24,6 +24,3 @@ Technical lead on multi-year digital transformation projects across utility, pub
 - Led cross-functional teams and oversaw risk & QA for multiple digital transformation projects in energy and public sector.
 - Managed developer and QA teams, coordinated UAT, and reported directly to senior client stakeholders.
 - Instituted formal testing cycles and risk mitigation procedures for each delivery phase.
-
-## Lead Developer & Systems Architect
-### Invitation Media Limited
