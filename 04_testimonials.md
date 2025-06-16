@@ -33,3 +33,8 @@
 >He has always been approachable and responsive, offering assistance with any queries in a calm and reassuring manner."
 
 — **Erica S. FGA, DGA, RJ Dip, FIPG**, Owner, Erica Sharpe Ltd
+
+---
+>"Steve built a bespoke client information and author royalty system for my small company all the way back in 2013. It was exactly what I needed and wanted, and the system has continued to work well ever since. I still use it on a daily basis to access information, or update with new info and book sales information. Steve is always there when I need him, and responds quickly and helpfully."
+
+— **Helen H**, Publishing Director, SilverWood Books
