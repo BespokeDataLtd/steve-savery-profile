@@ -10,6 +10,9 @@ A selection of projects that demonstrate my ability to design, build, and delive
 - 🌍 **Ukrainian Freelancer Support**  
   Built a Bubble-based LinkedIn-verified freelance board for displaced Ukrainians.  
   → [View: Humanitarian No-Code Platform](./projects/ukrainianfreelancerboard.md)
+- 🍲 **Neighbourhood Meal Service**
+  Built a Bubble.io marketplace for home cooks to sell meals locally, integrating FSA ratings, postal lookups, Stripe payments, ClickUp onboarding, and Sendmail notifications. Launched live during lockdown but closed due to market viability.
+  → [View: Homethentic No-Code Platform](./projects/homethentic.md)
 
 ---
 
